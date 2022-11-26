@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+.glass{
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+    margin-right: 50px;
+    padding: 30px;
+}
+.glass img{
+    height: 200px;
+}
