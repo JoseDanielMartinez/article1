@@ -43,3 +43,22 @@ body{
     height: 500px;
     width: 100px;
 } */
+
+body{
+    font-family: monospace;
+    padding: 
+    0px;
+
+}
+
+.image1{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.image2{
+    margin-right: 10px;
+    float: right
+}
+
+
